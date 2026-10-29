@@ -1,0 +1,16 @@
+[
+  {
+    "id": "smoke-wisps",
+    "component": "SmokeWisps",
+    "verdict": "PASS",
+    "settleMs": 25080,
+    "fps": 8.9,
+    "frames": 31,
+    "mean": 23,
+    "varLuma": 324.7,
+    "distinct": 28,
+    "bytes": 8475,
+    "errors": [],
+    "assetIssues": []
+  }
+]
